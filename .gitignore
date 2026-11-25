@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.csv
+*.parquet
+*.pkl
+*.npz
+*.json
+*.txt
+*.log
+frames/
+crops/
+_tools/
